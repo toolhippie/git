@@ -9,5 +9,5 @@ ENTRYPOINT ["/usr/bin/git"]
 
 RUN apk update && \
   apk upgrade && \
-  apk add git git-lfs git-diff-highlight git-subtree git-secret git-crypt && \
+  apk add git git-lfs git-diff-highlight git-subtree git-crypt git-secret@testing && \
   rm -rf /var/cache/apk/*

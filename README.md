@@ -6,7 +6,6 @@
 **All these images are used for various scriptings, it's possible that any of these tools are updated randomly**
 
 * [GitHub](https://github.com/toolhippie/git)
-* [Upstream](https://github.com/stedolan/git)
 
 
 ## Versions

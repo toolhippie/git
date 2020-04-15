@@ -5,7 +5,7 @@ LABEL maintainer="Thomas Boerger <thomas@webhippie.de>" \
   org.label-schema.vendor="Thomas Boerger" \
   org.label-schema.schema-version="1.0"
 
-ENTRYPOINT ["/usr/bin/git"]
+ENTRYPOINT [""]
 
 RUN apk update && \
   apk upgrade && \

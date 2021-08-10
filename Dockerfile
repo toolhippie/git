@@ -1,6 +1,5 @@
 FROM webhippie/alpine:latest
-
-ENTRYPOINT ["/usr/bin/git"]
+ENTRYPOINT [""]
 
 RUN apk update && \
   apk upgrade && \

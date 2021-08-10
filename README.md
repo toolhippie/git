@@ -1,11 +1,8 @@
 # git
 
-[![Docker Build](https://github.com/toolhippie/git/workflows/docker/badge.svg)](https://github.com/toolhippie/git/actions?query=workflow%3Adocker) [![Docker Size](https://img.shields.io/docker/image-size/toolhippie/git/latest)](https://hub.docker.com/r/toolhippie/git) [![Docker Pulls](https://img.shields.io/docker/pulls/toolhippie/git)](https://hub.docker.com/r/toolhippie/git)
+[![Docker Build](https://github.com/toolhippie/git/workflows/docker/badge.svg)](https://github.com/toolhippie/git/actions?query=workflow%3Adocker) [![Docker Size](https://img.shields.io/docker/image-size/toolhippie/git/latest)](https://hub.docker.com/r/toolhippie/git) [![Docker Pulls](https://img.shields.io/docker/pulls/toolhippie/git)](https://hub.docker.com/r/toolhippie/git) [![GitHub Repo](https://img.shields.io/badge/github-repo-yellowgreen)](https://github.com/toolhippie/git) [![Upstream Repo](https://img.shields.io/badge/upstream-repo-yellow)](https://github.com/git/git)
 
 **All these images are used for various scriptings, it's possible that any of these tools are updated randomly**
-
-* [GitHub](https://github.com/toolhippie/git)
-* [Upstream](https://github.com/git/git)
 
 ## Versions
 
@@ -17,7 +14,7 @@ Fork -> Patch -> Push -> Pull Request
 
 ## Authors
 
-* [Thomas Boerger](https://github.com/tboerger)
+*  [Thomas Boerger](https://github.com/tboerger)
 
 ## License
 
@@ -25,6 +22,6 @@ MIT
 
 ## Copyright
 
-```
+```console
 Copyright (c) 2018 Thomas Boerger <http://www.webhippie.de>
 ```

@@ -8,5 +8,8 @@
             "groupName": "git packages",
             "matchDatasources": []
         }
+    ],
+    "ignoreDeps": [
+        "docker/build-push-action"
     ]
 }
